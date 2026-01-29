@@ -9,10 +9,10 @@ sites:
     url: https://eodatahub.org.uk/api/docs/workflow-runner/ping
   - name: EODH Commercial API
     url: https://eodatahub.org.uk/api/catalogue/manage/health
-  - name: EODH Stac API
-    url: ttps://eodatahub.org.uk/api/catalogue/stac/_mgmt/ping
+  - name: EODH STAC API
+    url: https://eodatahub.org.uk/api/catalogue/stac/_mgmt/ping
   - name: EODH TiTiler API
-    url: ttps://eodatahub.org.uk/titiler/healthz
+    url: https://eodatahub.org.uk/titiler/healthz
   - name: EODH Jupyter Hub
     url: https://eodatahub-workspaces.org.uk/healthz
 
