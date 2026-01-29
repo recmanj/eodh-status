@@ -21,7 +21,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   #cname: demo.upptime.js.org
   baseUrl: /eodh-status
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://raw.githubusercontent.com/recmanj/eodh-status/refs/heads/master/assets/eodh.png
   name: EODH Status
   introTitle: "**Earth Observation DataHub status page"
   introMessage: Status page monitoring EO DataHub site and relevant APIs
