@@ -1,7 +1,7 @@
 url: https://eodatahub.org.uk
-status: up
-code: 200
-responseTime: 875
-lastUpdated: 2026-04-28T23:15:11.055Z
+status: down
+code: 500
+responseTime: 1028
+lastUpdated: 2026-04-29T23:15:38.938Z
 startTime: 2026-01-29T11:13:21.913Z
 generator: Upptime <https://github.com/upptime/upptime>
