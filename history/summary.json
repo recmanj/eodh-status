@@ -6,14 +6,14 @@
     "slug": "earth-observation-data-hub",
     "status": "up",
     "uptime": "98.91%",
-    "uptimeDay": "0.02%",
+    "uptimeDay": "6.79%",
     "uptimeWeek": "85.72%",
     "uptimeMonth": "96.71%",
     "uptimeYear": "98.91%",
     "time": 848,
-    "timeDay": 1065,
+    "timeDay": 1101,
     "timeWeek": 938,
-    "timeMonth": 940,
+    "timeMonth": 927,
     "timeYear": 848,
     "dailyMinutesDown": {
       "2026-04-30": 1395,
@@ -32,9 +32,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 235,
-    "timeDay": 360,
+    "timeDay": 421,
     "timeWeek": 214,
-    "timeMonth": 227,
+    "timeMonth": 226,
     "timeYear": 235,
     "dailyMinutesDown": {}
   },
@@ -50,9 +50,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 637,
-    "timeDay": 667,
+    "timeDay": 673,
     "timeWeek": 644,
-    "timeMonth": 623,
+    "timeMonth": 621,
     "timeYear": 637,
     "dailyMinutesDown": {}
   },
@@ -68,9 +68,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 335,
-    "timeDay": 358,
+    "timeDay": 416,
     "timeWeek": 291,
-    "timeMonth": 328,
+    "timeMonth": 330,
     "timeYear": 335,
     "dailyMinutesDown": {
       "2026-01-29": 12
@@ -88,9 +88,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 291,
-    "timeDay": 357,
+    "timeDay": 419,
     "timeWeek": 299,
-    "timeMonth": 304,
+    "timeMonth": 305,
     "timeYear": 291,
     "dailyMinutesDown": {
       "2026-01-29": 12
@@ -108,9 +108,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 551,
-    "timeDay": 599,
+    "timeDay": 648,
     "timeWeek": 528,
-    "timeMonth": 651,
+    "timeMonth": 654,
     "timeYear": 551,
     "dailyMinutesDown": {}
   }
