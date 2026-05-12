@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/eodatahub.org.uk.ico",
     "slug": "earth-observation-data-hub",
     "status": "up",
-    "uptime": "99.02%",
+    "uptime": "99.03%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.71%",
-    "uptimeYear": "99.02%",
-    "time": 847,
-    "timeDay": 992,
-    "timeWeek": 767,
-    "timeMonth": 901,
-    "timeYear": 847,
+    "uptimeYear": "99.03%",
+    "time": 850,
+    "timeDay": 1120,
+    "timeWeek": 823,
+    "timeMonth": 916,
+    "timeYear": 850,
     "dailyMinutesDown": {
       "2026-04-30": 1395,
       "2026-04-29": 44
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 236,
-    "timeDay": 365,
-    "timeWeek": 228,
-    "timeMonth": 222,
-    "timeYear": 236,
+    "time": 238,
+    "timeDay": 460,
+    "timeWeek": 250,
+    "timeMonth": 227,
+    "timeYear": 238,
     "dailyMinutesDown": {}
   },
   {
@@ -49,11 +49,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 637,
-    "timeDay": 609,
-    "timeWeek": 628,
+    "time": 636,
+    "timeDay": 618,
+    "timeWeek": 642,
     "timeMonth": 627,
-    "timeYear": 637,
+    "timeYear": 636,
     "dailyMinutesDown": {}
   },
   {
@@ -67,11 +67,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 334,
-    "timeDay": 368,
-    "timeWeek": 288,
-    "timeMonth": 319,
-    "timeYear": 334,
+    "time": 335,
+    "timeDay": 467,
+    "timeWeek": 311,
+    "timeMonth": 324,
+    "timeYear": 335,
     "dailyMinutesDown": {
       "2026-01-29": 12
     }
@@ -87,11 +87,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 291,
-    "timeDay": 362,
-    "timeWeek": 243,
-    "timeMonth": 294,
-    "timeYear": 291,
+    "time": 293,
+    "timeDay": 467,
+    "timeWeek": 266,
+    "timeMonth": 300,
+    "timeYear": 293,
     "dailyMinutesDown": {
       "2026-01-29": 12
     }
@@ -107,11 +107,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 548,
-    "timeDay": 622,
-    "timeWeek": 494,
+    "time": 547,
+    "timeDay": 538,
+    "timeWeek": 501,
     "timeMonth": 647,
-    "timeYear": 548,
+    "timeYear": 547,
     "dailyMinutesDown": {}
   }
 ]
